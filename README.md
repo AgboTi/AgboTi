@@ -24,7 +24,7 @@
 ---
 
 ## 📈 My GitHub Stats
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgboTiE&show_icons=true&theme=radical)
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgboTi&show_icons=true&theme=radical)
 
 ---
 
