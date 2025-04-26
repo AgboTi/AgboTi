@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Timothy!
 
-<!--
-**AgboTi/AgboTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst passionate about turning data into meaningful insights.  
+🔎 Skilled in **SQL**, **Power BI**, **Excel**, and **Data Visualization**.  
+📈 Currently building projects to sharpen my skills and tell better data stories.  
+⚡ Fun facts: I love football, hiking, traveling, and movies!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- SQL
+- Power BI
+- Microsoft Excel
+- Power Query
+- Python (beginner)
+
+---
+
+## 📚 Current Focus
+- Building Data Analysis Projects
+- Learning Advanced Power BI Dashboards
+- Improving SQL Querying Skills
+
+---
+
+## 📈 My GitHub Stats
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+- [LinkedIn](#) (www.linkedin.com/in/timothy-agbo)
